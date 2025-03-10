@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\bin\Debug\net8.0\tpmodul4_103022300118_2.exe
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\bin\Debug\net8.0\tpmodul4_103022300118_2.deps.json
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\bin\Debug\net8.0\tpmodul4_103022300118_2.runtimeconfig.json
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\bin\Debug\net8.0\tpmodul4_103022300118_2.dll
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\bin\Debug\net8.0\tpmodul4_103022300118_2.pdb
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.AssemblyInfo.cs
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.dll
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\refint\tpmodul4_103022300118_2.dll
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.pdb
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\tpmodul4_103022300118_2.genruntimeconfig.cache
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118_2\obj\Debug\net8.0\ref\tpmodul4_103022300118_2.dll
