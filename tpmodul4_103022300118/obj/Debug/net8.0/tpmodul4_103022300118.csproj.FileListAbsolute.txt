@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\bin\Debug\net8.0\tpmodul4_103022300118.exe
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\bin\Debug\net8.0\tpmodul4_103022300118.deps.json
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\bin\Debug\net8.0\tpmodul4_103022300118.runtimeconfig.json
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\bin\Debug\net8.0\tpmodul4_103022300118.dll
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\bin\Debug\net8.0\tpmodul4_103022300118.pdb
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.AssemblyInfo.cs
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.dll
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\refint\tpmodul4_103022300118.dll
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.pdb
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\tpmodul4_103022300118.genruntimeconfig.cache
+C:\Users\User\Downloads\Semester 4\KPL\Projects\tpmodul4_103022300118\tpmodul4_103022300118\obj\Debug\net8.0\ref\tpmodul4_103022300118.dll
